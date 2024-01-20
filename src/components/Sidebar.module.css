@@ -1,5 +1,5 @@
 .sidebar {
-  flex-basis: 56rem;
+  flex-basis: 30%;
   background-color: var(--color-dark--1);
   padding: 3rem 5rem 3.5rem 5rem;
 
@@ -11,9 +11,4 @@
 
 .footer {
   margin-top: auto;
-}
-
-.copyright {
-  font-size: 1.2rem;
-  color: var(--color-light--1);
 }

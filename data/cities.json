@@ -1,27 +1,159 @@
 {
   "cities": [
     {
-      "id": "d61d",
-      "cityName": "Paris",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-01-20T19:19:52.867Z",
-      "notes": "",
-      "position": {
-        "lat": "48.864714761802794",
-        "lng": "2.2851562500000004"
-      }
-    },
-    {
-      "id": "02a1",
+      "id": "76be",
       "cityName": "Chicago",
       "country": "United States of America (the)",
       "emoji": "🇺🇸",
-      "date": "2023-09-18T18:22:22.000Z",
+      "date": "2023-09-18T20:24:04.000Z",
       "notes": "",
       "position": {
-        "lat": "41.702759709590445",
-        "lng": "-87.67089843750001"
+        "lat": "41.888476931243254",
+        "lng": "-87.615366310353"
+      }
+    },
+    {
+      "id": "4b62",
+      "cityName": "Bristol",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-08-30T20:24:32.000Z",
+      "notes": "",
+      "position": {
+        "lat": "42.568189778046126",
+        "lng": "-88.04667323985284"
+      }
+    },
+    {
+      "id": "8b60",
+      "cityName": "Kenosha",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-09-02T20:24:49.000Z",
+      "notes": "",
+      "position": {
+        "lat": "42.58569703478024",
+        "lng": "-87.8154525956301"
+      }
+    },
+    {
+      "id": "1f04",
+      "cityName": "Las Vegas",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-09-14T20:25:08.000Z",
+      "notes": "",
+      "position": {
+        "lat": "36.16227046727886",
+        "lng": "-115.1568912647915"
+      }
+    },
+    {
+      "id": "ecf8",
+      "cityName": "Flagstaff",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-09-06T20:25:26.000Z",
+      "notes": "",
+      "position": {
+        "lat": "35.19737822958456",
+        "lng": "-111.65556096419269"
+      }
+    },
+    {
+      "id": "d9cf",
+      "cityName": "Williams",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-09-07T20:25:39.000Z",
+      "notes": "",
+      "position": {
+        "lat": "36.05798104702501",
+        "lng": "-112.11706823203227"
+      }
+    },
+    {
+      "id": "d546",
+      "cityName": "Tuba City",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-09-09T20:26:12.000Z",
+      "notes": "",
+      "position": {
+        "lat": "36.91201927144692",
+        "lng": "-111.45711947795563"
+      }
+    },
+    {
+      "id": "f7cc",
+      "cityName": "Moab",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-09-11T20:26:30.000Z",
+      "notes": "",
+      "position": {
+        "lat": "38.56883752245028",
+        "lng": "-109.53988775610286"
+      }
+    },
+    {
+      "id": "2d80",
+      "cityName": "Green River",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-09-12T20:26:48.000Z",
+      "notes": "",
+      "position": {
+        "lat": "38.996123632698406",
+        "lng": "-110.17564365257655"
+      }
+    },
+    {
+      "id": "9003",
+      "cityName": "Kanab",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-09-13T20:27:23.000Z",
+      "notes": "",
+      "position": {
+        "lat": "37.047778998812234",
+        "lng": "-112.5234050063535"
+      }
+    },
+    {
+      "id": "5a5b",
+      "cityName": "Vienna",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2023-12-16T21:27:49.000Z",
+      "notes": "",
+      "position": {
+        "lat": "48.20728655738642",
+        "lng": "16.37305783518455"
+      }
+    },
+    {
+      "id": "47b3",
+      "cityName": "Krakow",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2024-01-20T21:28:15.729Z",
+      "notes": "",
+      "position": {
+        "lat": "50.07201490170393",
+        "lng": "20.037339438323745"
+      }
+    },
+    {
+      "id": "4384",
+      "cityName": "Irakleion",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2019-09-25T20:28:37.000Z",
+      "notes": "",
+      "position": {
+        "lat": "35.33473304845998",
+        "lng": "25.135247525560168"
       }
     }
   ]
