@@ -22,13 +22,13 @@
 
 /* CSS Modules feature */
 .nav a:global(.active) {
-  color: black;
+  color: gold;
 }
 
 a.ctaLink:link,
 a.ctaLink:visited {
-  background-color: var(--color-brand--2);
+  background-color: yellow;
   color: var(--color-dark--0);
   padding: 0.8rem 2rem;
-  border-radius: 7px;
+  border-radius: 100px;
 }

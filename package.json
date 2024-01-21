@@ -8,9 +8,11 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "server": "json-server --watch data/cities.json --port 9000"
+    "server": "json-server --watch data/cities.json --port 9000",
+    "serverquiz": "json-server --watch data/countries.json --port 8000"
   },
   "dependencies": {
+    "axios": "^1.6.5",
     "json-server": "^1.0.0-alpha.21",
     "leaflet": "^1.9.4",
     "react": "^18.2.0",
