@@ -77,6 +77,7 @@ const Quiz = () => {
         () => Math.random() - 0.5
       );
       setQuizOptions(shuffledOptions);
+      console.log(shuffledOptions);
 
       setLoading(false);
     } catch (error) {
